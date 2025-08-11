@@ -1,0 +1,3 @@
+Name:Nyni
+Course:BCA
+one thing i learned aboout github is how to create repositary
